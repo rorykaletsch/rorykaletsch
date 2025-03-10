@@ -1,7 +1,3 @@
-Below is a customized `README.md` that you can place in your GitHub profile repository (`rorykaletsch/rorykaletsch`). Feel free to adjust it further to suit your style or preferences!
-
----
-
 ## Hi there, I'm Rory! 👋
 
 I'm a **Cloud Engineer** with over **10 years of experience** helping companies build and optimize their cloud infrastructure on **AWS**. I specialize in designing **serverless** architectures and leveraging the right mix of cloud services for scalable, secure, and cost-effective solutions.  
